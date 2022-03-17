@@ -1,1 +1,1 @@
-Hello World, Added CI to the repository
+Hello World, Added CI to the repository.
