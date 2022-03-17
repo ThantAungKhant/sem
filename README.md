@@ -8,4 +8,4 @@ Code of Conduct Devop Group 1
 
 4. Work as a team at the same time. Every team member must be available to work together upon the set time. 
 
-5. Prefer small things that you complete to big,long lasting tasks. Be it a github issue, small and done better than big and started.
+5. Prefer small things that you complete to big, long lasting tasks. Be it a github issue, small and done better than big and started.
